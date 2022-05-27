@@ -1,13 +1,10 @@
-# `apple-sign-in-rest`
+# `apple-sign-in-module`
 
-[![NPM](https://nodei.co/npm/apple-sign-in-rest.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/apple-sign-in-rest/)
+### THIS IS A FORK FROM renarsvilnis/apple-sign-in-rest. ONLY CHANGE I HAVE MADE IS ADDING id_token AND refresh_token TO RefreshTokenResponse.
 
-[![renarsvilnis](https://circleci.com/gh/renarsvilnis/apple-sign-in-rest.svg?style=svg)](https://app.circleci.com/pipelines/github/renarsvilnis/apple-sign-in-rest)
+[![NPM](https://nodei.co/npm/apple-sign-in-module.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/apple-sign-in-module/)
 
-
-Hopefully your go-to library for implementing [_Sign In With Apple Rest API_](https://developer.apple.com/documentation/sign_in_with_apple) in Node.js.
-
-> See [comparison table](https://github.com/renarsvilnis/apple-sign-in-rest#comparison-to-other-apple-sign-in-libraries) why you should choose `apple-sign-in-rest` over other `apple-xxx` package.
+[![renarsvilnis](https://circleci.com/gh/renarsvilnis/apple-sign-in-module.svg?style=svg)](https://app.circleci.com/pipelines/github/renarsvilnis/apple-sign-in-module)
 
 Supports Node.js `>= 10.x.x`
 
@@ -16,8 +13,8 @@ Supports Node.js `>= 10.x.x`
 Install the module using [npm](http://npmjs.com):
 
 ```bash
-npm install --save apple-sign-in-rest
-yarn add apple-sign-in-rest
+npm install --save apple-sign-in-module
+yarn add apple-sign-in-module
 ```
 
 ## Documentation

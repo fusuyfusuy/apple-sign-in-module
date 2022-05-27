@@ -1,6 +1,8 @@
 # `apple-sign-in-module`
 
-### THIS IS A FORK FROM renarsvilnis/apple-sign-in-rest. ONLY CHANGE I HAVE MADE IS ADDING id_token AND refresh_token TO RefreshTokenResponse.
+__THIS IS A FORK FROM renarsvilnis/apple-sign-in-rest. ONLY CHANGE I HAVE MADE IS ADDING id_token AND refresh_token TO RefreshTokenResponse.__
+
+# apple-sign-in-module is not apple-sign-in-rest
 
 [![NPM](https://nodei.co/npm/apple-sign-in-module.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/apple-sign-in-module/)
 

@@ -1,4 +1,4 @@
-# `__THIS IS A FORK FROM renarsvilnis/apple-sign-in-rest. ONLY CHANGE I HAVE MADE IS ADDING id_token AND refresh_token TO RefreshTokenResponse. THIS VERSION CAN BE DOWNLOADED FROM npm AS apple-sign-in-module__`
+# `THIS IS A FORK FROM renarsvilnis/apple-sign-in-rest. ONLY CHANGE I HAVE MADE IS ADDING id_token AND refresh_token TO RefreshTokenResponse. THIS VERSION CAN BE DOWNLOADED FROM npm AS apple-sign-in-module`
 
 # apple-sign-in-module
 

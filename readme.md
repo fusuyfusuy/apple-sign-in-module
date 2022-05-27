@@ -4,8 +4,6 @@
 
 [![NPM](https://nodei.co/npm/apple-sign-in-module.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/apple-sign-in-module/)
 
-[![renarsvilnis](https://circleci.com/gh/renarsvilnis/apple-sign-in-module.svg?style=svg)](https://app.circleci.com/pipelines/github/renarsvilnis/apple-sign-in-module)
-
 Supports Node.js `>= 10.x.x`
 
 ## Installation

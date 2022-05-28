@@ -1,7 +1,7 @@
 {
   "name": "apple-sign-in-module",
-  "version": "1.0.4",
-  "description": "Hopefully your go-to library for implementing Sign In With Apple in Node.js",
+  "version": "1.0.5",
+  "description": "(Fork of a) Hopefully your go-to library for implementing Sign In With Apple in Node.js",
   "main": "lib/AppleSignIn.js",
   "types": "lib/AppleSignIn.d.ts",
   "files": [
@@ -50,13 +50,13 @@
     "node",
     "typescript"
   ],
-  "author": "Renārs Vilnis <renars.vilnis@gmail.com> (http://renarsvilnis.com/)",
+  "author": "Original: Renārs Vilnis <renars.vilnis@gmail.com> (http://renarsvilnis.com/), Fork: Yusuf Akcakaya <yusufakcakaya@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://git@github.com/renarsvilnis/apple-sign-in-rest.git"
+    "url": "git://git@github.com/fusuyfusuy/apple-sign-in-module.git"
   },
   "bugs": {
-    "url": "https://github.com/renarsvilnis/apple-sign-in-rest/issues"
+    "url": "https://github.com/fusuyfusuy/apple-sign-in-module/issues"
   },
   "license": "MIT",
   "husky": {
@@ -91,7 +91,7 @@
     "typedoc": "0.20.13",
     "typescript": "4.1.3"
   },
-  "homepage": "https://github.com/renarsvilnis/apple-sign-in-rest#readme",
+  "homepage": "https://github.com/fusuyfusuy/apple-sign-in-module#readme",
   "directories": {
     "doc": "docs"
   }

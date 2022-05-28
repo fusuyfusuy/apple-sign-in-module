@@ -260,3 +260,4 @@ Copyright (c) 2020 Renārs Vilnis
 
 If you have any questions or need help with integration, then you can contact me by email
 [renars.vilnis@gmail.com](renars.vilnis@gmail.com).
+signed
